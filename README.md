@@ -1,10 +1,6 @@
+![Profile views counter](https://komarev.com/ghpvc/?username=Annihilater&&style=flat&color=blue) 
 
-
-### About me!  
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
-</div>  
-  
+# About me!  
 
 ### <div align="center">I'm Annihilater, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
   
@@ -25,9 +21,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
+<table><tr><td valign="top" width="25%">
 
 ### Frontend  
 <div align="center">  
@@ -47,7 +41,7 @@
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -86,7 +80,7 @@
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="20%">
 
 
 
@@ -106,44 +100,40 @@
 
 <br/>  
 
-
+---
 ## Connect with me  
+If you're interested, please checkout my personal ✏️ blog where I share my ordinary yet joyful life. 
+
+You can also find me on these social media platforms: [Twitter](https://twitter.com/KlauseSchip).
+
+Feel free to contact me via [Email](), [Telegram]() or [Discord]().
+
+
 <div align="center">
 <a href="https://github.com/Annihilater" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 1px;" />
 </a>
 <a href="https://twitter.com/@KlauseSchip" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 1px;" />
 </a>
 <a href="https://stackoverflow.com/users/annihilater-stefan" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 1px;" />
 </a>
 <a href="https://www.youtube.com/user/@schipalexander7215" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 1px;" />
+</a>  
+<a href="https://www.zhihu.com/people/annihilater" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 1px;" />
 </a>  
 </div>  
   
-
-<br/>  
-
+---
+<br/>   
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Annihilater&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annihilater&hide_border=true&layout=compact" align="right" /></div>  
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=Annihilater&show_icons=true&count_private=true&hide_border=true&theme=cobalt" />  
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Annihilater&&style=flat-square)  
-  
-<br/>  
 
-<div align="right">
-            <a href="https://www.buymeacoffee.com/Annihilater" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="right"
-                />
-            </a></div>
-<br />
+
