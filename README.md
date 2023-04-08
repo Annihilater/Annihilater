@@ -1,9 +1,10 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=Annihilater&&style=flat&color=blue) 
 
-## About me!  
+# About me!  
 
 ### <div align="center">I'm Annihilater, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
   
+<table><tr><td valign="top" width="50%">
 
 - 🏠 I’m currently working from home   
   
@@ -16,6 +17,13 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
   
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" height="130px" />
+</div>  
+
+</td></tr></table>  
 
 <br/>  
 
@@ -100,13 +108,13 @@
 
 <br/>  
 
-
+---
 ## Connect with me  
 If you're interested, please checkout my personal ✏️ blog where I share my ordinary yet joyful life. 
 
 You can also find me on these social media platforms: [Twitter](https://twitter.com/KlauseSchip).
 
-Feel free to contact me via [Email](https://github.com/Annihilater), [Telegram](https://github.com/Annihilater) or [Discord](https://github.com/Annihilater).
+Feel free to contact me via [Email](), [Telegram]() or [Discord]().
 
 
 <div align="center">
@@ -127,7 +135,7 @@ Feel free to contact me via [Email](https://github.com/Annihilater), [Telegram](
 </a>  
 </div>  
   
-
+---
 <br/>   
 
 ## Github Stats  
