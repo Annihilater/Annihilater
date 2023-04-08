@@ -1,6 +1,6 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=Annihilater&&style=flat&color=blue) 
 
-# About me!  
+## About me!  
 
 ### <div align="center">I'm Annihilater, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
   
