@@ -100,7 +100,7 @@
 
 <br/>  
 
----
+
 ## Connect with me  
 If you're interested, please checkout my personal ✏️ blog where I share my ordinary yet joyful life. 
 
@@ -127,7 +127,7 @@ Feel free to contact me via [Email](), [Telegram]() or [Discord]().
 </a>  
 </div>  
   
----
+
 <br/>   
 
 ## Github Stats  
