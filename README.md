@@ -106,7 +106,7 @@ If you're interested, please checkout my personal ✏️ blog where I share my o
 
 You can also find me on these social media platforms: [Twitter](https://twitter.com/KlauseSchip).
 
-Feel free to contact me via [Email](), [Telegram]() or [Discord]().
+Feel free to contact me via [Email](https://github.com/Annihilater), [Telegram](https://github.com/Annihilater) or [Discord](https://github.com/Annihilater).
 
 
 <div align="center">
