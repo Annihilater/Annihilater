@@ -130,9 +130,6 @@ Feel free to contact me via [Email](), [Telegram]() or [Discord]().
 <a href="https://www.youtube.com/user/@schipalexander7215" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 1px;" />
 </a>  
-<a href="https://www.zhihu.com/people/annihilater" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 1px;" />
-</a>  
 </div>  
   
 ---
